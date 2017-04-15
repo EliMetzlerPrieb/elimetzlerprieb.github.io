@@ -1,0 +1,25 @@
+.navbar{
+	list-style-type: none;
+	margin: 0 0 10px 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+.navbar_box{
+	color: white;
+	padding: 14px 16px;
+	float: left;
+}
+
+@media only screen and (min-width: 641px)
+{
+	.bio 
+	{
+		text-align: left;
+	}
+
+}
