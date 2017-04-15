@@ -23,3 +23,13 @@
 	}
 
 }
+
+.headshot {
+	border-radius: 10px;
+}
+
+.project {
+	border-radius: 5px;
+	width: 300px;
+	height: auto;
+}
